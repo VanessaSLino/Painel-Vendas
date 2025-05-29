@@ -1,0 +1,18 @@
+﻿data,produto,categoria,cliente,regiao,vendedor,quantidade,valor
+2023-01-01,Notebook,Eletrônicos,João Silva,Sul,Ana Costa,2,5000
+2023-01-02,Celular,Eletrônicos,Maria Souza,Sudeste,Pedro Santos,1,2500
+2023-01-03,Mesa,Móveis,Carlos Lima,Sul,Ana Costa,1,800
+2023-01-04,Cadeira,Móveis,Ana Paula,Nordeste,Pedro Santos,4,1200
+2023-01-05,Monitor,Eletrônicos,José Oliveira,Sudeste,Luiz Pereira,3,2400
+2023-01-06,Teclado,Eletrônicos,Patrícia Rocha,Norte,Luiz Pereira,5,750
+2023-01-07,Sofá,Móveis,Fernando Costa,Sudeste,Ana Costa,1,3500
+2023-01-08,Fone de Ouvido,Eletrônicos,Amanda Santos,Sul,Pedro Santos,2,600
+2023-01-09,Estante,Móveis,Ricardo Alves,Sudeste,Luiz Pereira,2,900
+2023-01-10,Impressora,Eletrônicos,Beatriz Lima,Nordeste,Ana Costa,1,1200
+2023-01-11,TV,Eletrônicos,Rafaela Martins,Sudeste,Pedro Santos,1,3200
+2023-01-12,Cama,Móveis,Lucas Oliveira,Nordeste,Luiz Pereira,1,2800
+2023-01-13,Mouse,Eletrônicos,Juliana Almeida,Sul,Ana Costa,3,450
+2023-01-14,Armário,Móveis,Gustavo Lima,Sudeste,Pedro Santos,2,1500
+2023-01-15,Tablet,Eletrônicos,Carolina Souza,Norte,Luiz Pereira,1,1800
+2023-01-16,Smartwatch,Eletrônicos,Rodrigo Ferreira,Centro-Oeste,Ana Costa,2,1800
+2023-01-17,Cadeira Gamer,Móveis,Patrícia Nunes,Centro-Oeste,Luiz Pereira,1,1200
